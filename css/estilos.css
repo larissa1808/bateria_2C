@@ -1,5 +1,5 @@
 :root {
-  --cinza: #aaa;
+  --cinza: #fa3084;
   --rosa-escura: #fa3084;
   --rosa-escura: #fa3084;
   --branca: hsl(0, 0%, 100%);
@@ -8,7 +8,7 @@
 
 body {
   align-items: center;
-  background: linear-gradient(45deg, #fd99c3 0%,#fa3084 100%);
+  background: linear-gradient(45deg, #ffc4dc 0%,#fa3084 100%);
   display: flex;
   justify-content: center;
   flex-direction: column;
